@@ -3,6 +3,6 @@
 	<Muscle name="Trizeps" level="3"/>
 	<SportsEquipment name="Trainingsbank"/>
 	<SportsEquipment name="Kurzhantel"/>  
-	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="Lying-triceps-extension-across-face-1.gif"/> 
-	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="Lying-triceps-extension-across-face-2.gif"/> 
+	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="Lying-triceps-extension-across-face-1.png"/> 
+	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="Lying-triceps-extension-across-face-2.png"/> 
 </ExerciseType> 

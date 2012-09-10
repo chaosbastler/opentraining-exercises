@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Push-ups-3-1.svg"
+   sodipodi:docname="Push-ups-3-2.svg"
    inkscape:export-filename="/home/christian/Dokumente/Website/opentraining/cc_exercises/Push-ups-3-1.png"
    inkscape:export-xdpi="214.32458"
    inkscape:export-ydpi="214.32458">
@@ -111,7 +111,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="1615"
      inkscape:window-height="1026"
-     inkscape:window-x="1431"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -127,7 +127,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -136,34 +136,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-272.28216,-389.43236)">
-    <g
-       id="g5449"
-       transform="matrix(0.98073687,0,0,0.73383327,-46.185952,271.49074)"
-       style="fill:#ffffff;fill-opacity:1"
-       inkscape:export-filename="/home/christian/Arbeitsfläche/Dropbox/Website/opentraining/cc_exercises/Bench-dips-2.png"
-       inkscape:export-xdpi="214.51434"
-       inkscape:export-ydpi="214.51434">
-      <rect
-         inkscape:export-ydpi="150"
-         inkscape:export-xdpi="150"
-         inkscape:export-filename="/home/christian/Dokumente/Code/workspace/OpenTraining/res/drawable/background.png"
-         y="185.22804"
-         x="352.24948"
-         height="255.71428"
-         width="290"
-         id="rect2987"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5283)" />
-      <path
-         transform="matrix(1.6074318,0,0,0.77372547,-152.97598,82.347784)"
-         d="m 467.14287,292.00504 c 0,36.49024 -29.58119,66.07142 -66.07143,66.07142 -36.49024,0 -66.07142,-29.58118 -66.07142,-66.07142 0,-36.49025 29.58118,-66.07143 66.07142,-66.07143 36.49024,0 66.07143,29.58118 66.07143,66.07143 z"
-         sodipodi:ry="66.071426"
-         sodipodi:rx="66.071426"
-         sodipodi:cy="292.00504"
-         sodipodi:cx="401.07144"
-         id="path5317"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5427)"
-         sodipodi:type="arc" />
-    </g>
     <rect
        style="fill:#f5f2f2;fill-opacity:0;stroke:none"
        id="rect5431-9"
