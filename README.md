@@ -25,16 +25,16 @@ Every time something starts with '$', replace this with a value(e.g.: $NAME -> C
 
 Each .xml file has to contain this.
 <pre><code>
-<ExerciseType name="$NAME">
-	<!-- more meta data here -->
-</ExerciseType>
+&lt;ExerciseType name="$NAME"&gt;
+	&lt;!-- more meta data here --&gt;
+&lt;/ExerciseType&gt;
 </code></pre> 
 
 Image
 -----
 Example for including image:
 <pre><code>
-<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="One-arm-preacher-curl-2.gif"/> 
+&lt;Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="One-arm-preacher-curl-2.gif"/&gt;
 </code></pre> 
 
 There is no translation/I18N for the following meta data.
@@ -43,21 +43,21 @@ Will propably be added in future.
 Description
 -----------
 <pre><code>
-<Description text="$DESCRIPTIONTEXT" />
+&lt;Description text="$DESCRIPTIONTEXT" /&gt;
 </code></pre> 
 
 
 Hint
 ----
 <pre><code>
-<Hint text="$HINTTEXT"/>
+&lt;Hint text="$HINTTEXT"/&gt;
 </code></pre> 
 
 
 URL
 ---
 <pre><code>
-<RelatedURL url="$URL" />
+&lt;RelatedURL url="$URL" /&gt;
 </code></pre> 
 
 
@@ -65,7 +65,7 @@ Muscle:
 -------
 
 <pre><code>
-<Muscle name="$MUSCLE" level="$ACTIVATIONLEVEL"/>
+&lt;Muscle name="$MUSCLE" level="$ACTIVATIONLEVEL"/&gt;
 </code></pre> 
 
 where $ACTIVATIONLEVEL may be 1,3 or 5
@@ -77,22 +77,22 @@ Unterschenkelmuskel
 
 Examples :
 <pre><code>
-<Muscle name="Brustmuskel" level="3"/>
-<Muscle name="Bauchmuskeln" level="3"/>
-<Muscle name="Rückenmuskeln" level="3"/>
-<Muscle name="Po" level="3"/>
-<Muscle name="Schulter" level="3"/>
-<Muscle name="Bizeps" level="3"/>
-<Muscle name="Trizeps" level="3"/>
-<Muscle name="Oberschenkelmuskel" level="3"/>
-<Muscle name="Unterschenkelmuskel" level="3"/>
+&lt;Muscle name="Brustmuskel" level="3"/&gt;
+&lt;Muscle name="Bauchmuskeln" level="3"/&gt;
+&lt;Muscle name="Rückenmuskeln" level="3"/&gt;
+&lt;Muscle name="Po" level="3"/&gt;
+&lt;Muscle name="Schulter" level="3"/&gt;
+&lt;Muscle name="Bizeps" level="3"/&gt;
+&lt;Muscle name="Trizeps" level="3"/&gt;
+&lt;Muscle name="Oberschenkelmuskel" level="3"/&gt;
+&lt;Muscle name="Unterschenkelmuskel" level="3"/&gt;
 </code></pre> 
 
 
 SportsEquipment:
 ----------------
 <pre><code>
-<SportsEquipment name="$EQUIPMENTNAME"/>
+&lt;SportsEquipment name="$EQUIPMENTNAME"/&gt;
 </code></pre> 
 where $EQUIPMENTNAME may be one of these:
 
@@ -111,18 +111,18 @@ Hantelscheibe
 
 Examples:
 <pre><code>
-<SportsEquipment name="Keine"/>
-<SportsEquipment name="Langhantel"/>
-<SportsEquipment name="SZ-Stange"/>
-<SportsEquipment name="Kurzhantel"/>
-<SportsEquipment name="Trainingsbank"/>
-<SportsEquipment name="Curlpult"/>
-<SportsEquipment name="Beinstrecker Maschine"/>
-<SportsEquipment name="Beinpresse"/>
-<SportsEquipment name="Gymnastikmatte"/>
-<SportsEquipment name="Swiss Ball"/>
-<SportsEquipment name="Klimmzug Stange"/>
-<SportsEquipment name="Hantelscheibe"/>
+&lt;SportsEquipment name="Keine"/&gt;
+&lt;SportsEquipment name="Langhantel"/&gt;
+&lt;SportsEquipment name="SZ-Stange"/&gt;
+&lt;SportsEquipment name="Kurzhantel"/&gt;
+&lt;SportsEquipment name="Trainingsbank"/&gt;
+&lt;SportsEquipment name="Curlpult"/&gt;
+&lt;SportsEquipment name="Beinstrecker Maschine"/&gt;
+&lt;SportsEquipment name="Beinpresse"/&gt;
+&lt;SportsEquipment name="Gymnastikmatte"/&gt;
+&lt;SportsEquipment name="Swiss Ball"/&gt;
+&lt;SportsEquipment name="Klimmzug Stange"/&gt;
+&lt;SportsEquipment name="Hantelscheibe"/&gt;
 </code></pre> 
 
 
@@ -131,7 +131,7 @@ Examples:
 ExerciseTag
 -----------
 <pre><code>
-<Tag name="$TAG"/>
+<Tag name="$TAG"/&gt;
 </code></pre> 
 
 where $TAG may be one of these:
@@ -149,5 +149,5 @@ Currently not used:
 Icon
 ----
 <pre><code>
-<Icon path="$ICONPATH" />
+<Icon path="$ICONPATH" /&gt;
 </code></pre> 
