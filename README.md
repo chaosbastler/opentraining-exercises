@@ -25,9 +25,9 @@ Every time something starts with '$', replace this with a value(e.g.: $NAME -> C
 
 Each .xml file has to contain this.
 <pre><code>
-<ExerciseType name="$NAME">
-	<!-- more meta data here -->
-</ExerciseType>
+&lt;ExerciseType name="$NAME"&gt;
+	&lt;!-- more meta data here --&gt;
+&lt;/ExerciseType&gt;
 </code></pre> 
 
 Image
