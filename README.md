@@ -131,7 +131,7 @@ Examples:
 ExerciseTag
 -----------
 <pre><code>
-<Tag name="$TAG"/&gt;
+&lt;Tag name="$TAG"/&gt;
 </code></pre> 
 
 where $TAG may be one of these:
@@ -148,6 +148,6 @@ Komplexe Übung
 Currently not used:
 Icon
 ----
-<pre><code>
-<Icon path="$ICONPATH" /&gt;
-</code></pre> 
+<code>
+&lt;Icon path="$ICONPATH" /&gt;
+</code>
