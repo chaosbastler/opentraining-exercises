@@ -148,6 +148,6 @@ Komplexe Übung
 Currently not used:
 Icon
 ----
-<code>
+<pre><code>
 &lt;Icon path="$ICONPATH" /&gt;
-</code>
+</code></pre>
