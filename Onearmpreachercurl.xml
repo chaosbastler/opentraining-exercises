@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
-<ExerciseType name="Onearmpreachercurl"> 
+<ExerciseType name="Curl (einarmig auf Pult)">
+	<SportsEquipment name="Curlpult"/>
+	<SportsEquipment name="Swiss Ball"/>
+	<SportsEquipment name="Kurzhantel"/>
+	<Muscle name="Bizeps" level="3"/>
 	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="One-arm-preacher-curl-1.gif"/> 
 	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="One-arm-preacher-curl-2.gif"/> 
 </ExerciseType> 
