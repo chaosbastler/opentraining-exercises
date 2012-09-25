@@ -27,3 +27,10 @@ do
 done
 
 echo "all images finished, converted $counter images"
+
+echo "++++++++++++++++++++++++++++++++++++++++++++++"
+echo "+                                            +"
+echo "++++++++++++++++++++++++++++++++++++++++++++++"
+
+cd ..
+./clone.sh
