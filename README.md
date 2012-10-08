@@ -57,9 +57,9 @@ Hint
 URL
 ---
 <pre><code>
-&lt;RelatedURL url="$URL" /&gt;
+&lt;RelatedURL language="$LANGUAGE" url="$URL" /&gt;
 </code></pre> 
-
+Example for $LANGUAGE: "en", "de" 
 
 Muscle:
 -------

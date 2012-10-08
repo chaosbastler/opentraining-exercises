@@ -6,4 +6,6 @@
 	<SportsEquipment name="Langhantel"/> 
 	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="Bench-press-1.png"/> 
 	<Image imageLicenseText="License: Creative Commons Attribution-Share Alike 3.0 Unported, Author: Everkinetic" path="Bench-press-2.png"/> 
+	<RelatedURL language="en" url="http://en.wikipedia.org/wiki/Bench_press"/>
+	<RelatedURL language="de" url="http://de.wikipedia.org/wiki/Bankdr%C3%BCcken"/>
 </ExerciseType> 
